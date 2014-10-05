@@ -1,0 +1,14 @@
+Leads Query Engine prototype until M24.
+
+
+Compile:
+
+mvn compile
+
+Package:
+
+mvn package -DskipTests
+
+Install:
+
+mvn install -DskipTests
